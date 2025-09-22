@@ -1,0 +1,21 @@
+h1 {
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: underline;
+  padding-bottom: 25px;
+  margin: 10px;
+}
+
+.Oneven {
+  background-color: grey;
+}
+
+.Even {
+  color: rgb(82, 61, 243);
+}
+
+ol {
+  list-style-type: decimal;
+  padding-left: 10px;
+  margin: 10px;
+}

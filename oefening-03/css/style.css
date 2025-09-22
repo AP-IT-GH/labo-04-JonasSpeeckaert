@@ -1,0 +1,19 @@
+.inner {
+    background-color: grey;
+}
+
+.outer{
+    color: white;
+    font-weight: bold;
+    background-color: black;
+}
+
+table {
+    border: 3px solid grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+th {
+    padding: 20px;
+    text-align: center;
+}

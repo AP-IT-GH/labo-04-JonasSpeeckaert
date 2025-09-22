@@ -1,0 +1,45 @@
+.webtech {
+  background-color: red;
+  color: white;
+  font-size: 17px;
+}
+
+.databases {
+  background-color: blue;
+  color: white;
+  font-size: 17px;
+}
+
+.itessential {
+  background-color: purple;
+  color: white;
+  font-size: 17px;
+}
+
+.itorgan {
+  background-color: pink;
+  color: black;
+  font-size: 17px;
+}
+
+.outer {
+  color: white;
+  font-weight: bold;
+  background-color: black;
+  font-size: 17px;
+}
+
+table {
+  border: 3px solid grey;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+th {
+  padding: 15px;
+  text-align: center;
+}
+
+caption {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
